@@ -3,7 +3,7 @@ package dz.univ.calculatrice;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
  
-class addOperationTest {
+class AddOperationTest {
  
     private final AddOperation operation = new AddOperation();
  
